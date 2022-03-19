@@ -8,7 +8,7 @@ class App extends React.Component{
     this.state={
       x:null,
       component:"causal"
-    };
+};
   }
   componentDidMount(){
     console.log("componentDidMount");
