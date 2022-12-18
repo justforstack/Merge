@@ -32,11 +32,7 @@ class App extends React.Component{
     else{
     return(
       <div>
-<<<<<<< HEAD
         this is a git check!!
-=======
-        this is a main check!!
->>>>>>> 5453d8049483a8d245bef93447dd3bed3e0cc506
 
       <button onClick={()=>{this.setState({x:1})}}>State check</button>
   <br/>
