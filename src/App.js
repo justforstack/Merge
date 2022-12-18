@@ -32,7 +32,7 @@ class App extends React.Component{
     else{
     return(
       <div>
-        this is a react check!!
+        this is a git check!!
 
       <button onClick={()=>{this.setState({x:1})}}>State check</button>
   <br/>
